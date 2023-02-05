@@ -47,6 +47,9 @@ menu:
   About: false
   Tags: true
   Archives: true
+  Simulation:
+    name: 'Simulation'
+    path: 'https://simulation.mistrysiddh.com/'
   # message-board:
   #     name: 'MessageBoard'
   #     i18n:
