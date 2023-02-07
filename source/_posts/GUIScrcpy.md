@@ -26,6 +26,7 @@ categories:
 - Game
 - technology
 cover: https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png
+feature: true
 ---
 ![GUIScrcpy](https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png)
 ## Requirement

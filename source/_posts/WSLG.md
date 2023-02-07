@@ -14,6 +14,7 @@ series:
 categories:
 - technology
 cover: images/posts/WSLg_IntegratedDesktop.png
+feature: true
 ---
 ## Recaps
 

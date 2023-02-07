@@ -15,6 +15,7 @@ categories:
 - website
 url: /raspberrypi-nas/
 cover: https://i.ytimg.com/vi/Jc4Y2jA4Yeg/maxresdefault.jpg
+feature: true
 ---
 
 ![PI NAS](https://i.ytimg.com/vi/Jc4Y2jA4Yeg/maxresdefault.jpg)

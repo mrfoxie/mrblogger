@@ -14,6 +14,7 @@ series:
 categories:
 - technology
 cover: images/posts/wsl2.png
+feature: true
 ---
 ![WSL2](images/posts/wsl2.png)
 

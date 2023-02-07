@@ -13,6 +13,7 @@ categories:
 - Hacking
 - website
 cover: https://www.tertiarycourses.com.sg/media/catalog/product/cache/1/image/512x/040ec09b1e35df139433887a97daa66f/r/o/ros-raspberry-pi.jpg
+feature: true
 ---
 
 ![ROS](https://www.tertiarycourses.com.sg/media/catalog/product/cache/1/image/512x/040ec09b1e35df139433887a97daa66f/r/o/ros-raspberry-pi.jpg)

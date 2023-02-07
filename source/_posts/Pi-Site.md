@@ -14,6 +14,7 @@ categories:
 - Hacking
 - website
 cover: https://i.ytimg.com/vi/QdHvS0D1zAI/maxresdefault.jpg
+feature: true
 ---
 ![Rasberry PI 4](https://i.ytimg.com/vi/QdHvS0D1zAI/maxresdefault.jpg)
 
