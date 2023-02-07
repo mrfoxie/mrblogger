@@ -18,11 +18,8 @@ site:
   multi_language: false
   logo: https://mistrysiddh.com/images/whoami/avatar.png
   avatar: https://mistrysiddh.com/images/whoami/avatar.png
-  beian:
-    number: ''
-    link: 'https://www.mistrysiddh.com'
-  police_beian:
-    number: ''
+  siddh:
+    number: '6355040470'
     link: 'https://www.mistrysiddh.com'
 
 #! ---------------------------------------------------------------
@@ -31,13 +28,13 @@ site:
 #! ---------------------------------------------------------------
 authors:
   ##! example
-  Siddh:
+  siddh:
     name: Mistry Siddh
     avatar: https://mistrysiddh.com/images/whoami/avatar.png
     link: https://github.com/mrfoxie
-    description: 'Get Weakly News Related To Different Kinds Of News, Tips, Tricks, Etc. If You Have Your Own Theory Or Story Then Comment Down In The Post.'
+    description: 'Believe in the Person who Believes in you!'
     socials:
-      github: https://mistrysiddh.com/
+      github: https://github.com/mrfoxie/
 
 #! ---------------------------------------------------------------
 #! Menu Configs
@@ -50,12 +47,12 @@ menu:
   Simulation:
     name: 'Simulation'
     path: 'https://simulation.mistrysiddh.com/'
-  # message-board:
-  #     name: 'MessageBoard'
-  #     i18n:
-  #       # cn: '留言板'
-  #       en: 'Message Board'
-  #     path: '/page/message-board'
+  message-board:
+      name: 'MessageBoard'
+      i18n:
+        # cn: '留言板'
+        en: 'Message Board'
+      path: '/page/message-board'
 #! ---------------------------------------------------------------
 #! Theme Config
 #! @docs https://aurora.tridiamond.tech/guide/theme.html
@@ -63,7 +60,7 @@ menu:
 theme:
   dark_mode: true
   profile_shape: diamond # support `circle`, `diamond`, `rounded`
-  feature: false
+  feature: true
   gradient:
     color_1: '#FF6107'
     color_2: '#E9290F'
@@ -109,7 +106,7 @@ site_meta:
 
 # For local development only!
 gitalk:
-  enable: false
+  enable: true
   autoExpand: true
   clientID: 'b2f95a99322423c264fc'
   clientSecret: 'fd88d62d1bc75cb91014e9b4d29b9db842818b6c'
@@ -147,7 +144,7 @@ copy_protection:
   enable: true
   author:
     cn: 作者
-    en: Author
+    en: Mistry Siddh
   link:
     cn: 本文来自于
     en: Article is from
@@ -165,17 +162,17 @@ aurora_bot:
   bot_type: dia
   tips:
     messages:
-        -  Hi, I am <span>NISHA o.o</span>, I am here to help you?
-        -  We are living in Simulator? o.o
-        -  I'm programmed to look after all living being and non-living being? o.o
-    visibility_change: "Welcome to Simulation o.o"
+        -  Hi, I am <span>Dia O.O</span>, I am here to help you?
+        -  How are you doing? O.O
+        -  Believe in the person who believes in you O.O
+    visibility_change: "Welcome to Mr. Blogger O.O"
     mouseover:
       - selector: '#Aurora-Dia'
         text:
           - Waaaaaaaa...What are you <span>doing</span>? O.O
           - Please be gentle, I am very delicate! O.O
           - '<span>Sir yes sir!</span> What can I help you with? O.O'
-          - They are everywhere o.o
+          - Share this site as much as possible. O.O
 
 
 #! ---------------------------------------------------------------
