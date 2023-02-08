@@ -4,8 +4,8 @@ date: 2023-02-07 11:18:47
 ---
 ![Banner](/images/whoami/Banner.png)
 
-:::warning Message
+:::warning Information
 
-There is no message yet
+Coming Soon
 
 :::
