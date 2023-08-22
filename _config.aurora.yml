@@ -16,9 +16,9 @@ site:
   link: '/'
   language: en
   multi_language: false
-  logo: https://mistrysiddh.com/images/whoami/avatar.png
-  avatar: https://mistrysiddh.com/images/whoami/avatar.png
-  siddh:
+  logo: /images/whoami/avatar.png
+  avatar: /images/whoami/avatar.png
+  Siddh:
     number: '6355040470'
     link: 'https://www.mistrysiddh.com'
 
@@ -30,7 +30,7 @@ authors:
   ##! example
   siddh:
     name: Mistry Siddh
-    avatar: https://mistrysiddh.com/images/whoami/avatar.png
+    avatar: /images/whoami/avatar.png
     link: https://github.com/mrfoxie
     description: 'Believe in the Person who Believes in you!'
     socials:
@@ -94,7 +94,7 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: en
-  favicon: https://mistrysiddh.com/images/whoami/avatar.png
+  favicon: /images/whoami/avatar.png
   description: 'Get Weakly News Related To Different Kinds Of News, Tips, Tricks, Etc. If You Have Your Own Theory Or Story Then Comment Down In The Post.'
   keywords: 'matrix, simulation, reality, government, truth, experiment, mind control, Conspiracy theory'
   author: 'Mistry Siddh'
