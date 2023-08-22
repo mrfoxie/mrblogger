@@ -13,7 +13,7 @@ site:
   author: Mr. Blogger
   nick: Mistry Siddh
   description:
-  link: '/'
+  link: 'https://www.mistrysiddh.com/'
   language: en
   multi_language: false
   logo: /images/whoami/avatar.png
@@ -30,7 +30,7 @@ authors:
   ##! example
   siddh:
     name: Mistry Siddh
-    avatar: /images/whoami/avatar.png
+    avatar: https://www.mistrysiddh.com/images/whoami/avatar.png
     link: https://github.com/mrfoxie
     description: 'Believe in the Person who Believes in you!'
     socials:
@@ -52,7 +52,7 @@ menu:
       i18n:
         # cn: '留言板'
         en: 'Message Board'
-      path: '/page/message-board'
+      path: 'https://www.mistrysiddh.com/page/message-board'
 #! ---------------------------------------------------------------
 #! Theme Config
 #! @docs https://aurora.tridiamond.tech/guide/theme.html
@@ -94,7 +94,7 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: en
-  favicon: /images/whoami/avatar.png
+  favicon: https://www.mistrysiddh.com/images/whoami/avatar.png
   description: 'Get Weakly News Related To Different Kinds Of News, Tips, Tricks, Etc. If You Have Your Own Theory Or Story Then Comment Down In The Post.'
   keywords: 'matrix, simulation, reality, government, truth, experiment, mind control, Conspiracy theory'
   author: 'Mistry Siddh'
