@@ -16,9 +16,9 @@ site:
   link: 'https://www.mistrysiddh.com/'
   language: en
   multi_language: false
-  logo: /images/whoami/avatar.png
-  avatar: /images/whoami/avatar.png
-  Siddh:
+  logo: https://www.mistrysiddh.com/images/whoami/avatar.png
+  avatar: https://www.mistrysiddh.com/images/whoami/avatar.png
+  siddh:
     number: '6355040470'
     link: 'https://www.mistrysiddh.com'
 
