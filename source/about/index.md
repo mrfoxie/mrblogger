@@ -2,6 +2,4 @@
 title: about
 date: 2023-02-07 10:55:15
 ---
-![Mistry Siddh](/images/whoami/Banner.png)
-# Mistry Siddh
-Welcome to Mr. Blogger! My main goal is to spread knowledge to everyone as much as possible.
+<iframe width="1000" height="800" src="https://buymeacoffee.com/mistrysiddh" frameborder="0">
